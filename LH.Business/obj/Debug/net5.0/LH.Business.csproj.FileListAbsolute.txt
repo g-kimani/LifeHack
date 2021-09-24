@@ -1,0 +1,12 @@
+C:\Projects\LifeHack\LH.Business\bin\Debug\net5.0\LH.Business.deps.json
+C:\Projects\LifeHack\LH.Business\bin\Debug\net5.0\LH.Business.dll
+C:\Projects\LifeHack\LH.Business\bin\Debug\net5.0\ref\LH.Business.dll
+C:\Projects\LifeHack\LH.Business\bin\Debug\net5.0\LH.Business.pdb
+C:\Projects\LifeHack\LH.Business\obj\Debug\net5.0\LH.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LifeHack\LH.Business\obj\Debug\net5.0\LH.Business.AssemblyInfoInputs.cache
+C:\Projects\LifeHack\LH.Business\obj\Debug\net5.0\LH.Business.AssemblyInfo.cs
+C:\Projects\LifeHack\LH.Business\obj\Debug\net5.0\LH.Business.csproj.CoreCompileInputs.cache
+C:\Projects\LifeHack\LH.Business\obj\Debug\net5.0\LH.Business.dll
+C:\Projects\LifeHack\LH.Business\obj\Debug\net5.0\ref\LH.Business.dll
+C:\Projects\LifeHack\LH.Business\obj\Debug\net5.0\LH.Business.pdb
+C:\Projects\LifeHack\LH.Business\obj\Debug\net5.0\LH.Business.csproj.AssemblyReference.cache
